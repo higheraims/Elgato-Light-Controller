@@ -1,4 +1,4 @@
-# Elgato Light Controller
+# Elgato Light Controller for Linux
  Python UI for Elgato Key Lights
 
 ## The Need
